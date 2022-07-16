@@ -1,6 +1,3 @@
-
-
-
 from PyQt5 import QtCore, QtGui, QtWidgets
 from Txt_in_Img_Encode import *
 from Txt_in_Img_Decode import *
